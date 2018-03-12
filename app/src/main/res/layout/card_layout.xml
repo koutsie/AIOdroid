@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:tag="cards main container">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="5dp"
+        card_view:cardBackgroundColor="#FFF"
+        android:layout_marginLeft="5dp"
+        card_view:cardElevation="1dp"
+        android:padding="10dp"
+        card_view:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:padding="8dp"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="60dp"
+                android:layout_marginLeft="5dp"
+                android:layout_height="60dp"
+                android:id="@+id/image" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/name"
+                android:textColor="#000"
+                android:layout_marginLeft="10dp"
+                android:singleLine="true"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="10dp"
+                android:text="Appliction Name"
+                android:textSize="18dp"
+                android:layout_toRightOf="@+id/image"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/package_name"
+                android:textColor="#535353"
+                android:layout_marginLeft="10dp"
+                android:singleLine="true"
+                android:layout_marginRight="10dp"
+                android:text="Appliction Name"
+                android:textSize="18dp"
+                android:layout_below="@+id/name"
+                android:layout_toRightOf="@+id/image"/>
+
+
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <iconmask img1="iconmask"/>
+  <iconupon img1="iconupon"/>
+  <scale factor=".85"/>
+
+  <!-- Icons -->
+  <item
+    component="ComponentInfo{com.vector.game.puzzle.numberlink/com.vector.unity.games.ads.UnityPlayerAdsActivity}"
+    drawable="game_2248_icon"/>
+  <item
+    component="ComponentInfo{org.adw.launcher/org.adw.launcher.LauncherActivity}"
+    drawable="adw_icon"/>
+  <item
+    component="ComponentInfo{com.aide.ui/com.aide.ui.MainActivity}"
+    drawable="aide_icon"/>
+  <item
+    component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.module.home.MainActivity}"
+    drawable="ali_icon"/>
+  <item
+    component="ComponentInfo{ru.fortik_studio.creetail.hatsuki.allinonenotcleaner/ru.fortik_studio.creetail.hatsuki.allinonenotcleaner.StartActivity}"
+    drawable="aio_icon"/>
+  <item
+    component=""
+    drawable="androidify_icon"/>
+  <item
+    component="ComponentInfo{com.hecorat.screenrecorder.free/com.hecorat.screenrecorder.free.activities.MainActivity}"
+    drawable="az_icon"/>
+  <item
+    component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.MainActivity}"
+    drawable="vk_icon"/>
+  <item
+    component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}"
+    drawable="yt_icon"/>
+</resources>

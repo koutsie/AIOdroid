@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <version>1</version>
+  <item drawable="game_2248_icon"/>
+  <item drawable="adw_icon"/>
+  <item drawable="aide_icon"/>
+  <item drawable="ali_icon"/>
+  <item drawable="aio_icon"/>
+  <item drawable="androidify_icon"/>
+  <item drawable="az_icon"/>
+  <item drawable="vk_icon"/>
+  <item drawable="yt_icon"/>
+</resources>

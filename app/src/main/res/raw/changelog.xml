@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog bulletedList="true">
+
+  <changelogversion
+    changeDate="Feb 21,2018"
+    versionName="0.1.1 [AREMON]">
+    <changelogtext>[b]New![/b] File Manager</changelogtext>
+    <changelogtext>[b]New![/b] Apk Extractor</changelogtext>
+    <changelogtext>[b]New![/b] Toasty lib for toast`s</changelogtext>
+    <changelogtext>[b]Updated![/b] Color palate</changelogtext>
+    <changelogtext>[i][b]Fixed[/b][/i] Search system in Apk extractor </changelogtext>
+  </changelogversion>
+
+  <changelogversion
+    changeDate="Feb 11,2018"
+    versionName="0.0.7r [BETA]">
+    <changelogtext>[b]New![/b] Device information page</changelogtext>
+    <changelogtext>[b]Updated![/b] Background colors</changelogtext>
+    <changelogtext>[i][b]Fixed[/b][/i] Display screen size detector</changelogtext>
+  </changelogversion>
+
+  <changelogversion
+    changeDate="Feb 8,2018"
+    versionName="0.0.7r">
+    <changelogtext>[b]New![/b] Changed applicationId and package</changelogtext>
+    <changelogtext>[b]Updated![/b] Interface changed from BottomNavigationBar to DrawerNavigation</changelogtext>
+  </changelogversion>
+
+  <changelogversion
+    changeDate="Feb 4,2018"
+    versionName="0.0.6b">
+    <changelogtext>[b]New![/b] Root Checker</changelogtext>
+    <changelogtext>[b]Updated![/b] Home Fragment</changelogtext>
+    <changelogtext>[i][b]Fixed[/b][/i] Root check function</changelogtext>
+  </changelogversion>
+
+  <changelogversion
+    changeDate="Jan 27,2018"
+    versionName="0.0.4a">
+    <changelogtext>[b]New![/b] Added 2 new wallpaper</changelogtext>
+    <changelogtext>[b]New![/b] Added double tap closing system</changelogtext>
+    <changelogtext>[b]New![/b] BottomNavigationBar support ViewPaper</changelogtext>
+    <changelogtext>[b]Updated![/b] Edited ImageAdapter</changelogtext>
+    <changelogtext>[i][b]Fixed[/b][/i] Wallpaper fragment lags</changelogtext>
+  </changelogversion>
+
+  <changelogversion
+    changeDate="Jan 22,2018"
+    versionName="0.0.3b">
+    <changelogtext>[b]New![/b] Added wallpaper set function</changelogtext>
+    <changelogtext>[b]Updated![/b] BottomNavigationBar colors changed</changelogtext>
+    <changelogtext>[i][b]Fixed[/b][/i] Crash on something devices</changelogtext>
+  </changelogversion>
+
+  <changelogversion
+    changeDate="Jan 21,2018"
+    versionName="0.0.2b">
+    <changelogtext>[b]New![/b] Added Changelog page</changelogtext>
+  </changelogversion>
+
+  <changelogversion
+    changeDate="Jan 18,2018"
+    versionName="0.0.1b">
+    <changelogtext>[b]Updated![/b] Icon list edited</changelogtext>
+    <changelogtext>[i][b]Fixed[/b][/i] BottomNavigationBar color fixed</changelogtext>
+  </changelogversion>
+
+  <changelogversion
+    changeDate="Jan 13,2018"
+    versionName="0.0.1a">
+    <changelogtext>[b]New![/b] First launch</changelogtext>
+  </changelogversion>
+
+</changelog>

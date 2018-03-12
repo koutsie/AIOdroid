@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <PreferenceCategory android:title="About Me">
+    <Preference
+      android:key="pref_developer"
+      android:summary="Syorito Hatsuki"
+      android:title="Developer"/>
+
+    <Preference
+      android:key="pref_version"
+      android:summary="0.1.1 [AREMON]"
+      android:title="Version"/>
+
+
+    <Preference
+      android:key="pref_email"
+      android:summary="hikirihatsuki@gmail.com"
+      android:title="Contact"/>
+
+    <Preference
+      android:key="pref_rate"
+      android:summary="Coming soon..."
+      android:title="Rate this app"/>
+
+  </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="icon_pack" translatable="false">
+    <item>game_2248_icon</item>
+    <item>adw_icon</item>
+    <item>aide_icon</item>
+    <item>ali_icon</item>
+    <item>aio_icon</item>
+    <item>androidify_icon</item>
+    <item>az_icon</item>
+    <item>vk_icon</item>
+    <item>yt_icon</item>
+  </string-array>
+</resources>

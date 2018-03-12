@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "741085374493",
+    "firebase_url": "https://all-in-one-not-cleaner.firebaseio.com",
+    "project_id": "all-in-one-not-cleaner",
+    "storage_bucket": "all-in-one-not-cleaner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741085374493:android:153b5bf76e37dba1",
+        "android_client_info": {
+          "package_name": "ru.fortik_studio.creetail.hatsuki.allinonenotcleaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741085374493-4db2ujnb0eipe0799om8cqf2de4a10ce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.fortik_studio.creetail.hatsuki.allinonenotcleaner",
+            "certificate_hash": "636054c6afe87c07393ed61bf1dfb6efa4d23586"
+          }
+        },
+        {
+          "client_id": "741085374493-c2l58b9eu1amnfednsmntk6r7ub18ot6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtLuUha8xTmgrY92Mdjm40eou3Y1MFLJE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741085374493-c2l58b9eu1amnfednsmntk6r7ub18ot6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

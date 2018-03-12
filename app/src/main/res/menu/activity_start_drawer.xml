@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  tools:showIn="navigation_view">
+
+  <group android:checkableBehavior="single">
+    <item
+      android:id="@+id/nav_home"
+      android:icon="@drawable/ic_home"
+      android:title="Home"/>
+    <item
+      android:id="@+id/nav_icons"
+      android:icon="@drawable/ic_icons"
+      android:title="Icons"/>
+   <item
+      android:id="@+id/nav_device_info"
+      android:icon="@drawable/ic_device"
+      android:title="Device Info"
+      />
+    <item
+      android:id="@+id/nav_wallpapers"
+      android:icon="@drawable/ic_wallpapers"
+      android:title="Wallpapers"
+      />
+    <item
+    android:id="@+id/nav_changelog"
+    android:icon="@drawable/ic_changelog"
+    android:title="Changelog"
+      />
+  </group>
+
+  <item android:title="Tools">
+    <menu>
+      <item
+        android:id="@+id/nav_extractor"
+        android:icon="@drawable/ic_extractor"
+        android:title="Apk Extractor"/>
+      <item
+        android:id="@+id/nav_file_manager"
+        android:icon="@drawable/ic_manager"
+        android:title="File Manager"/>
+    </menu>
+  </item>
+
+  <item android:title="Other">
+    <menu>
+      <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings"/>
+      <item
+        android:id="@+id/nav_about"
+        android:icon="@drawable/ic_about"
+        android:title="About"/>
+    </menu>
+  </item>
+
+</menu>

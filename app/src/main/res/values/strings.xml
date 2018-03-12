@@ -1,0 +1,58 @@
+<resources>
+  <string name="app_name">All In One [NOT CLEANER]</string>
+
+  <string name="navigation_drawer_open"></string>
+  <string name="navigation_drawer_close"></string>
+
+  <string name="action_settings">Settings</string>
+  <string name="wallpaper_update"> Wallpaper has updated</string>
+
+  <!-- App Types -->
+  <string name="type_social">Social</string>
+  <string name="type_screen_rec">Screen Recorder</string>
+  <string name="type_icon_pack">Icon Pack</string>
+  <string name="type_launcher">Launcher</string>
+  <string name="type_game">Game</string>
+  <string name="type_programming">Programming</string>
+  <string name="type_shop">Web Shop</string>
+  <string name="type_desing">Desing</string>
+
+
+  <!-- FILE MANAGER STRING -->
+  <string name="label_save">Save</string>
+  <string name="label_content">Content</string>
+  <string name="label_name">Name</string>
+  <string name="label_decrypt">Decrypt</string>
+  <string name="label_cancel">Cancel</string>
+  <string name="label_delete">Delete</string>
+  <string name="new_name">New name</string>
+  <string name="current_name">Current name</string>
+  <string name="rename">Rename</string>
+  <string name="drop_here">DROP HERE</string>
+  <string name="decline">DECLINE</string>
+  <string name="folder_options">Folder options</string>
+  <string name="file_options">File options</string>
+  <string name="moving_file">Moving: %1$s</string>
+  <string name="copy_file">Copying: %1$s</string>
+  <string name="switch_to_internal">Switch to internal</string>
+  <string name="order_by">Order by ...</string>
+  <string name="filter">Filter</string>
+
+  <!-- APK EXTRACTOR STRING -->
+  <string name="dlg_loading_title">Loading</string>
+  <string name="dlg_loading_body">Loading list of installed applications...</string>
+  <string name="msg_search">Search</string>
+  <string name="msg_search_help">Search by app or package names</string>
+  <string name="toast_extracted">Apk file was extracted as %s</string>
+  <string name="toast_failed">Failed to extract apk file. See adb log for details.</string>
+  <string name="alert_root_title">Try with root?</string>
+  <string name="alert_root_body">It seems that this application cannot be extracted through regular way. It is okay for paid apps: android tries to protect them from copying. However they are still extractable on rooted devices. If your device is rooted, apkExtractor could try to extract it using root.</string>
+  <string name="alert_root_yes">Lets try with root</string>
+  <string name="alert_root_no">Not now</string>
+  <string name="alert_perm_title">Permission required</string>
+  <string name="alert_perm_body">In order to write apk file application must be granted with \"Storage\" permission.\nPlease, open app\'s settings and grant \"Storage\" permission to it.</string>
+  <string name="alert_perm_btn">Open settings</string>
+  <string name="set_as_wallpaper">Set as wallpaper</string>
+  <string name="dd">s\'s</string>
+
+</resources>
